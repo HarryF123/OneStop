@@ -19,12 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d8dbe8b-0de5-4a75-ab62-a1f8c24c4c3e" name="Default Changelist" comment="finishing up">
+    <list default="true" id="3d8dbe8b-0de5-4a75-ab62-a1f8c24c4c3e" name="Default Changelist" comment="fixing up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fishoil.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/fishoil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/lglut.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/lglut.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Core.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Core.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bsc.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/bsc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/carb.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/carb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/legs.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/legs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lowcal.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/lowcal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lowcarb.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/lowcarb.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/maltodex.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/maltodex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pre.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/pre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/protein.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/protein.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/proteinsupp.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/proteinsupp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vegan.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/vegan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vegetarian.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/vegetarian.html" afterDir="false" />
     </list>
+    <list id="954bb0b3-4493-463a-a31f-f96f69088a8c" name="Revert: grainnes code w pictures done" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +51,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="OneStopFitness/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="OneStopFitness-main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,6 +125,11 @@
       <workItem from="1619994525827" duration="7767000" />
       <workItem from="1620038296015" duration="3253000" />
       <workItem from="1620130068093" duration="5626000" />
+      <workItem from="1620219260875" duration="1322000" />
+      <workItem from="1620307848469" duration="1189000" />
+      <workItem from="1620658342295" duration="5637000" />
+      <workItem from="1620821376894" duration="521000" />
+      <workItem from="1621200904665" duration="4758000" />
     </task>
     <task id="LOCAL-00001" summary="Trying Storage pics and required function in login2.html">
       <created>1619702549008</created>
@@ -275,7 +304,8 @@
     <MESSAGE value="unversioned files" />
     <MESSAGE value="unversioned files and Unauthorized.html" />
     <MESSAGE value="finishing up" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing up" />
+    <MESSAGE value="grainnes code w pictures done" />
+    <option name="LAST_COMMIT_MESSAGE" value="grainnes code w pictures done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="534" y="22" key="#Inspections" timestamp="1619734956324">
@@ -310,14 +340,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="620" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1619735656328" />
-    <state x="0" y="79" key="IDE.errors.dialog" timestamp="1619733063693">
+    <state x="0" y="79" key="IDE.errors.dialog" timestamp="1621191833494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="79" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1619733063693" />
-    <state x="116" y="0" width="1164" height="635" key="MergeDialog" timestamp="1620153449837">
+    <state x="0" y="79" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1621191833494" />
+    <state x="116" y="0" width="1164" height="635" key="MergeDialog" timestamp="1621191864413">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="116" y="0" width="1164" height="635" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1620153449837" />
+    <state x="116" y="0" width="1164" height="635" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1621191864413" />
     <state x="638" y="64" key="RollbackChangesDialog" timestamp="1620145038136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -326,18 +356,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="490" y="254" key="VCS.ChangelistChooser/0.0.1280.680@0.0.1280.680" timestamp="1617719400697" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1620221468466">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1620221468466" />
     <state x="137" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619994193991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="137" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1619994193991" />
-    <state x="668" y="40" width="607" height="640" key="find.popup" timestamp="1620174713920">
+    <state x="119" y="164" width="793" height="406" key="dock-window-1" timestamp="1621191984955">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="668" y="40" width="607" height="640" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1620174713920" />
-    <state x="364" y="54" key="git4idea.branch.GitSmartOperationDialog" timestamp="1620170162292">
+    <state x="119" y="164" width="793" height="406" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1621191984955" />
+    <state x="666" y="40" width="607" height="640" key="find.popup" timestamp="1621211991627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="364" y="54" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.680@0.0.1280.680" timestamp="1620170162292" />
+    <state x="666" y="40" width="607" height="640" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1621211991627" />
+    <state x="364" y="54" key="git4idea.branch.GitSmartOperationDialog" timestamp="1621191847711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="364" y="54" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.680@0.0.1280.680" timestamp="1621191847711" />
+    <state x="608" y="154" key="run.anything.popup" timestamp="1620661181241">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="608" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1620661181241" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1620175472226">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
